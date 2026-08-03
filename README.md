@@ -1,2 +1,2 @@
 # world-health
-Analyzes global public health and economic data to identify trends and insights across nearly 200 countries.
+This project uses Python and pandas to analyze public health and economic data from nearly 200 countries. The goal is to identify trends in health indicators, such as life expectancy, infant mortality, maternal mortality, and GDP. The data comes from the provided world-health-data-numbers.csv dataset. To run the project, open the notebook in Google Colab with the link and run each cell in order.
